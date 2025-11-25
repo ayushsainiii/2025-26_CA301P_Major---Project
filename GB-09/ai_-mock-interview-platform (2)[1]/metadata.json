@@ -1,0 +1,8 @@
+{
+  "name": "Talent AI: Mock Interview Platform",
+  "description": "An AI-powered platform to practice mock interviews in real-time. Get instant, data-driven feedback to improve your skills and land your dream job.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
